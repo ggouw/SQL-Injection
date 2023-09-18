@@ -8,3 +8,4 @@ Because -sC and -sV are more intrusive methods of scanning the target.
 
 -sC: Performs a script scan using the default set of scrpts.
 -sV: Enables version detection, will detect what version are running on what port.
+
